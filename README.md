@@ -39,6 +39,8 @@ Como funcionário, Junior quer ter a possibilidade de excluir um equipamento que
 
 A lista de equipamentos deve ser atualizada
 Como utilizar
+
+'''bash
 Clone o repositório ou baixe o código fonte.
 
 Abra o terminal ou o prompt de comando e navegue até a pasta raiz
@@ -46,8 +48,11 @@ Abra o terminal ou o prompt de comando e navegue até a pasta raiz
 Utilize o comando abaixo para restaurar as dependências do projeto.
 
 dotnet restore
+'''
 Para executar o projeto compilando em tempo real
 
+'''bash
 dotnet run --project GestaoDeEquipamentos.ConsoleApp
+'''
 Requisitos
 .NET 10.0 SDK
