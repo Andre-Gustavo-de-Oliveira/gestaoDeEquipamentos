@@ -6,9 +6,9 @@ Junior cuida do estoque de equipamentos na empresa onde trabalha. E sempre contr
 Desta forma, ele resolveu pedir ajuda do pessoal da Academia do Programador no desenvolvimento de um Software para automatizar o seu serviço.
 
 #1. Controle de Equipamentos
-
+---
 ##Requisito 1.1
-
+--
 Como funcionário, Junior quer ter a possibilidade de registrar equipamentos
 
 Deve ter identificador único (id)
@@ -18,7 +18,7 @@ Deve ter uma fabricante;
 Deve ter uma data de fabricação;
 
 ##Requisito 1.2
-
+--
 Como funcionário, Junior quer ter a possibilidade de visualizar todos os equipamentos registrados em seu inventário.
 
 Deve mostrar o id;
@@ -28,13 +28,13 @@ Deve mostrar a fabricante;
 Deve mostrar a data de fabricação;
 
 ##Requisito 1.3
-
+--
 Como funcionário, Junior quer ter a possibilidade de editar um equipamento, sendo que ele possa editar todos os campos.
 
 Deve ter os mesmos critérios que o Requisito 1.1.
 
 ##Requisito 1.4
-
+--
 Como funcionário, Junior quer ter a possibilidade de excluir um equipamento que esteja registrado.
 
 A lista de equipamentos deve ser atualizada
