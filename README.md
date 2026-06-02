@@ -51,7 +51,9 @@ dotnet restore'''
 Para executar o projeto compilando em tempo real
 
 
-'''dotnet run --project GestaoDeEquipamentos.ConsoleApp'''
+```
+dotnet run --project GestaoDeEquipamentos.ConsoleApp
+```
 
 Requisitos
 .NET 10.0 SDK
